@@ -3,7 +3,7 @@
 # Hey, I'm Yujiang 👋
 ### 📱 Android Developer · 🎓 DAM Student · 📍 Barcelona
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yujiang-xia)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 **Multiplatform Application Development (DAM)** student based in Barcelona, focused on modern Android development. I'm passionate about building apps.
 
-- 🎓 Studying DAM at **[Institute Name]**
+- 🎓 Studying DAM at **Institut Tecnològic de Barcelona**
 - 🤖 Working with **Kotlin + Jetpack** on real-world projects
 - 🌱 Continuously learning about software architecture and new technologies
 
@@ -60,7 +60,7 @@
 
 ## 📱 Android Projects
 
-### 🔧 [Terrabit](https://github.com/TU_USUARIO/terrabit)
+### 🔧 [Terrabit](https://github.com/Terrabit-dev/terrabit_app)
 > Terrabit is an Android application designed for efficient livestock management, focusing on cattle and pigs. It provides features to track, monitor, and organize bovines and porcines, helping farmers and farm managers streamline operations and improve productivity.
 
 - **Stack:** Kotlin · MVVM · Hilt · Room · Retrofit
@@ -72,11 +72,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yujiang31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yujiang31&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=yujiang31&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -84,7 +84,7 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yujiang-xia)
 
 ---
 
