@@ -3,7 +3,7 @@
 # Hey, I'm Yujiang 👋
 ### 📱 Android Developer · 🎓 DAM Student · 📍 Barcelona
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yujiang-xia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yujiang-xia-758b07239/)
 
 </div>
 
@@ -84,7 +84,7 @@
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yujiang-xia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yujiang-xia-758b07239/)
 
 ---
 
